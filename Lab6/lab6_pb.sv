@@ -1,11 +1,4 @@
-//     Part B: Calculator Task Example
-// 1.	Open a new project and copy the previous code for calculator class.
-// 2.	Update the code to uses tasks instead of functions. All the tasks should take two inputs 
-// and one output.
-// 3.	Create testbench.sv file and inside it defines an instance of class calculator and write your 
-// own testbench to check the functionality of the calculator.
-// 4.	Simulate, observe what the output is and debug as needed
-// 5.	Try the previous steps from 6 to 8 and observe.
+
 
 class Calculator;
 
